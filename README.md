@@ -18,6 +18,9 @@ Changing hues[] - The easiest implementation is to have as many hues as you have
 
 ***Troubleshooting***
 Did you import the FastLED library using the Arduino IDE?
+
 Did you correctly add your checkpoints with an extra for the final ring?
+
 Did you add the same amount of hues in the array as you have booleans in the rings array?
+
 Are your LED rings wired from outside in?
